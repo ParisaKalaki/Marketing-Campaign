@@ -30,15 +30,15 @@ Key insights from the data:
 
 ## 📉 Plots
 
-| Plot Description                       | Purpose                                             | Example Image                                         |
-| -------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| Class Balance Bar Plot                 | Visualize imbalance in target variable              | ![Class Balance](imbalanced-target.png)               |
-| Correlation Heatmap                    | Show correlations between features                  | ![Correlation Heatmap](correlation-heat-map.png)      |
-| Subscription Rate vs Contact Method    | Understand impact of contact method on subscription | ![Subscription Rate](optimal-Threshold.png)           |
-| SHAP Summary Plot (XGBoost)            | Feature importance and effect direction             | ![SHAP Summary](SHAP.png)                             |
-| XGBoost Feature Importance             | Tree-based feature ranking                          | ![XGBoost Importance](XGBoost-feature-importance.png) |
-| Confusion Matrix (Logistic Regression) | Evaluate logistic model predictions                 | ![LR Confusion](LR-confusion-matrix.png)              |
-| ROC Curve (Logistic Regression)        | Assess model discrimination                         | ![ROC Curve](LR-ROC.png)                              |
+| Plot Description                       | Purpose                                             | Example Image                                               |
+| -------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- |
+| Class Balance Bar Plot                 | Visualize imbalance in target variable              | ![Class Balance](plots/imbalanced-target.png)               |
+| Correlation Heatmap                    | Show correlations between features                  | ![Correlation Heatmap](plots/correlation-heat-map.png)      |
+| Subscription Rate vs Contact Method    | Understand impact of contact method on subscription | ![Subscription Rate](plots/optimal-Threshold.png)           |
+| SHAP Summary Plot (XGBoost)            | Feature importance and effect direction             | ![SHAP Summary](plots/SHAP.png)                             |
+| XGBoost Feature Importance             | Tree-based feature ranking                          | ![XGBoost Importance](plots/XGBoost-feature-importance.png) |
+| Confusion Matrix (Logistic Regression) | Evaluate logistic model predictions                 | ![LR Confusion](plots/LR-confusion-matrix.png)              |
+| ROC Curve (Logistic Regression)        | Assess model discrimination                         | ![ROC Curve](plots/LR-ROC.png)                              |
 
 ---
 
